@@ -4,6 +4,7 @@ title: Past Events
 cover: 4.png
 date:   2000-01-01
 categories: posts
+permalink: pastevents
 ---
 
  * [2004/DEFCON 12](http://jotux.com/defconbots/defcon12.7z)
